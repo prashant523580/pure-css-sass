@@ -132,7 +132,6 @@ body{
             
                 .inner-check-box{
                     position: absolute;
-                    //width: 40%;
                     opacity: 0;
                     cursor: pointer;
                     // transform: translate(-90px,10px) scale(2.5);
@@ -296,11 +295,7 @@ body{
                     }
                 }
                 .inner-main-content{
-                    .inner-check-box{
-                       
-                        width: 45%;
-                        transform: translate(0px,5px) scale(1.5);
-                    }
+                  
                     .content-header{
 
                         .header-left{

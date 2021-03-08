@@ -193,9 +193,6 @@ body {
       font-size: .6rem; }
   .main-container .collapse-header .collapse-content .text-para p {
     font-size: .6rem; }
-  .main-container .collapse-header .collapse-content .inner-main-content .inner-check-box {
-    width: 45%;
-    transform: translate(0px, 5px) scale(1.5); }
   .main-container .collapse-header .collapse-content .inner-main-content .content-header .header-left .inner-collapse-icon {
     font-size: .5rem; }
   .main-container .collapse-header .collapse-content .inner-main-content .content-header .header-left .img-icon {
