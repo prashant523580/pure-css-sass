@@ -153,7 +153,8 @@ body {
         .main-container .collapse-header .collapse-content .inner-main-content .inner-collapse-content {
           border-left: 3px solid #064e50;
           margin-left: 3.9rem;
-          margin-top: 0.2rem;
+          margin-top: .2rem;
+          margin-bottom: .2rem;
           transition: 0.2s ease-in-out; }
           .main-container .collapse-header .collapse-content .inner-main-content .inner-collapse-content p {
             font-size: .9rem;

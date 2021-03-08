@@ -212,13 +212,12 @@ body{
 
                 }
 
-                
                 .inner-collapse-content {
                     border-left: 3px solid rgb(6, 78, 80);
                     margin-left: 3.9rem;
-                    margin-top: 0.2rem;
-                   
-                    
+                    margin-top: .2rem;
+                    margin-bottom: .2rem;
+
                     transition: $transition;
                     p {
                         font-size: .9rem;
